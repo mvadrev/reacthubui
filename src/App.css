@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  background-color: black;
+  color: white;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.notconnected {
+  padding: 3rem;
+  font-size: 1rem;
+  text-align: center;
+  display: flex;
+}
+
+.connbtn {
+  border-radius: 4px;
+  background-color: #01b600;
+  width: 142px;
+  height: 43px;
+  color: white;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+}
+
+.nonet {
+  background-color: blue;
+}
+
+.bckbtn {
+  width: 142px;
+  height: 43px;
+  border-radius: 4px;
+  background-color: #01b600;
+}
